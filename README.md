@@ -77,6 +77,6 @@
 | Name | Github |
 |---|---|
 | Harish Bhumireddi | (https://github.com/hareeshbhumireddi) |
-phone no:9390954971
-Email - hareeshbhumireddi@gmail.com
+phone no | 9390954971 |
+Email |   hareeshbhumireddi@gmail.com |
 
