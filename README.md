@@ -44,9 +44,9 @@
 | Role | Email | Password |
 |---|---|---|
 
-| Staff | 1 | password123 |
-| Staff | 10 | davidpa2ss |
-| Staff | 7 | robertpass |
+| Staff | 1 | password123 |<br>
+| Staff | 10 | davidpa2ss |<br>
+| Staff | 7 | robertpass |<br>
 | Admin | 99999 | 12345 |
 
 ## Screenshots
