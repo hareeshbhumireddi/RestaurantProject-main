@@ -1,7 +1,5 @@
 ## Restaurant POS and Website
 
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/homehomepage.png?raw=true)
-
 **Built with these:** 
 <p align="left">
    <a href="#">
@@ -74,10 +72,11 @@
 
 
 
-## Contributors
+## Contact 
 
 | Name | Github |
 |---|---|
-| Bryan | https://github.com/BryanTheLai |
-| Yong | https://github.com/ahhyang |
-| Kevin | https://github.com/kevin07212004 |
+| Harish Bhumireddi | (https://github.com/hareeshbhumireddi) |
+phone no:9390954971
+Email - hareeshbhumireddi@gmail.com
+
