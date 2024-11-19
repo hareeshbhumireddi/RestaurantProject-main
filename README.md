@@ -40,12 +40,10 @@
 6. Run the project.
 
 ## Example accounts
-
+ For customer you have to register first 
 | Role | Email | Password |
 |---|---|---|
-| Customer | dadsvawvid@gmail.com | david4pass |
-| Customer | zoe@gmail.com | passworddef |
-| Customer | jackie@gmail.com | passwordstu |
+
 | Staff | 1 | password123 |
 | Staff | 10 | davidpa2ss |
 | Staff | 7 | robertpass |
